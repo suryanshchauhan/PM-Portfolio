@@ -3,6 +3,8 @@ import type { Metadata } from "next"
 import { Inter, Chivo, Abril_Fatface } from "next/font/google"
 import "./globals.css"
 import { cn } from "@/lib/utils"
+import { Analytics } from "@vercel/analytics/react"
+import { Suspense } from "react"
 
 const inter = Inter({
   subsets: ["latin"],
@@ -35,7 +37,8 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body className={cn("font-sans antialiased", inter.variable, chivo.variable, abrilFatface.variable)}>
-        {children}
+        <Suspense fallback={null}>{children}</Suspense>
+        <Analytics />
       </body>
     </html>
   )
