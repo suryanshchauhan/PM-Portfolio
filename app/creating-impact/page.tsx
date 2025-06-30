@@ -190,13 +190,19 @@ export default function CreatingImpact() {
             <div className="order-1 lg:order-2 flex items-center justify-center min-h-full">
               <div className="space-y-6">
                 <p className="text-xl md:text-2xl leading-relaxed text-gray-700">
-                  I'm a <span className="text-purple-600 font-medium">developer turned product manager</span>,
-                  passionate about building things that matter.
+                  I'm a{" "}
+                  <span className="font-medium" style={{ color: "#6F59FF" }}>
+                    developer turned product manager
+                  </span>
+                  , passionate about building things that matter.
                 </p>
 
                 <p className="text-xl md:text-2xl leading-relaxed text-gray-700">
                   I love connecting ideas, teams, and data to create{" "}
-                  <span className="text-purple-600 font-medium">real impact</span> - beyond just shipping features.
+                  <span className="font-medium" style={{ color: "#6F59FF" }}>
+                    real impact
+                  </span>{" "}
+                  - beyond just shipping features.
                 </p>
 
                 <p className="text-xl md:text-2xl leading-relaxed text-gray-700">
@@ -206,7 +212,10 @@ export default function CreatingImpact() {
 
                 <p className="text-xl md:text-2xl leading-relaxed text-gray-700">
                   DMs open - current obsession:{" "}
-                  <span className="text-purple-600 font-medium">turning insights into outcomes</span>.
+                  <span className="font-medium" style={{ color: "#6F59FF" }}>
+                    turning insights into outcomes
+                  </span>
+                  .
                 </p>
               </div>
             </div>
@@ -218,7 +227,9 @@ export default function CreatingImpact() {
           <div className="grid grid-cols-1 md:grid-cols-5 gap-8 md:gap-12">
             {/* Education Column - 40% of space (2 out of 5 columns) */}
             <div className="space-y-6 md:col-span-2">
-              <h2 className="text-2xl md:text-3xl font-bold text-purple-600 font-chivo">Education</h2>
+              <h2 className="text-2xl md:text-3xl font-bold font-chivo" style={{ color: "#6F59FF" }}>
+                Education
+              </h2>
               <div className="space-y-6">
                 <div>
                   <h3 className="text-lg font-semibold text-gray-800">DePauw University, IN, USA</h3>
@@ -240,7 +251,9 @@ export default function CreatingImpact() {
 
             {/* Experience Column - 60% of space (3 out of 5 columns) */}
             <div className="space-y-6 md:col-span-3">
-              <h2 className="text-2xl md:text-3xl font-bold text-purple-600 font-chivo">Experience</h2>
+              <h2 className="text-2xl md:text-3xl font-bold font-chivo" style={{ color: "#6F59FF" }}>
+                Experience
+              </h2>
               <div className="space-y-4">
                 <div>
                   <p className="text-lg text-gray-800">
