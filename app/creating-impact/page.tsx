@@ -215,9 +215,9 @@ export default function CreatingImpact() {
 
         {/* Professional Information Section - Full width, no background */}
         <div className="w-full">
-          <div className="grid grid-cols-1 lg:grid-cols-5 gap-8 lg:gap-12">
+          <div className="grid grid-cols-1 md:grid-cols-5 gap-8 md:gap-12">
             {/* Education Column - 40% of space (2 out of 5 columns) */}
-            <div className="space-y-6 lg:col-span-2">
+            <div className="space-y-6 md:col-span-2">
               <h2 className="text-2xl md:text-3xl font-bold text-purple-600 font-chivo">Education</h2>
               <div className="space-y-6">
                 <div>
@@ -239,7 +239,7 @@ export default function CreatingImpact() {
             </div>
 
             {/* Experience Column - 60% of space (3 out of 5 columns) */}
-            <div className="space-y-6 lg:col-span-3">
+            <div className="space-y-6 md:col-span-3">
               <h2 className="text-2xl md:text-3xl font-bold text-purple-600 font-chivo">Experience</h2>
               <div className="space-y-4">
                 <div>
