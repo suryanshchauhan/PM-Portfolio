@@ -114,7 +114,7 @@ const AnimatedText = () => {
   }, [words.length])
 
   return (
-    <h2 className="text-3xl md:text-6xl font-bold leading-tight md:leading-tight tracking-tight md:tracking-tighter text-gray-600 font-chivo text-center md:text-left">
+    <h2 className="text-3xl md:text-4xl lg:text-5xl font-bold leading-tight md:leading-tight tracking-tight md:tracking-tighter text-gray-600 font-chivo text-center md:text-left">
       {words.map((word, index) => (
         <span
           key={index}
