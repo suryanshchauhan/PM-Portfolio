@@ -27,6 +27,11 @@ export const metadata: Metadata = {
   title: "Suryansh Chauhan - Product Manager Portfolio",
   description: "Software developer turned product manager.",
   generator: "v0.dev",
+  icons: {
+    icon: "/favicon.png",
+    shortcut: "/favicon.png",
+    apple: "/favicon.png",
+  },
 }
 
 export default function RootLayout({
