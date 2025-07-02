@@ -1,30 +1,29 @@
-# DeveloperPortfolio4
+# Suryansh's Product Manager Portfolio
 
-*Automatically synced with your [v0.dev](https://v0.dev) deployments*
+This is Suryansh's Product Manager portfolio showcasing his work as a developer turned product manager, focusing on creating real impact and turning insights into outcomes.
 
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/suryanshchauhans-projects/v0-developer-portfolio4)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.dev-black?style=for-the-badge)](https://v0.dev/chat/projects/FJjPmMjXpCc)
+The portfolio can be viewed at: **www.suryansh.digital**
 
-## Overview
+## About
 
-This repository will stay in sync with your deployed chats on [v0.dev](https://v0.dev).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.dev](https://v0.dev).
+This portfolio highlights various product management case studies and projects, demonstrating expertise in user experience design, product strategy, and cross-functional collaboration.
 
-## Deployment
+## Features
 
-Your project is live at:
+- Responsive design optimized for all devices
+- Interactive project showcases
+- Detailed case studies with real-world impact
+- Modern UI built with Next.js and Tailwind CSS
 
-**[https://vercel.com/suryanshchauhans-projects/v0-developer-portfolio4](https://vercel.com/suryanshchauhans-projects/v0-developer-portfolio4)**
+## Tech Stack
 
-## Build your app
+- Next.js 14
+- React
+- Tailwind CSS
+- TypeScript
+- Vercel Analytics
+- Built with v0.dev
 
-Continue building your app on:
+## Contact
 
-**[https://v0.dev/chat/projects/FJjPmMjXpCc](https://v0.dev/chat/projects/FJjPmMjXpCc)**
-
-## How It Works
-
-1. Create and modify your project using [v0.dev](https://v0.dev)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
+Visit the portfolio at **www.suryansh.digital** to learn more about Suryansh's product management journey and get in touch.
