@@ -28,9 +28,12 @@ export const metadata: Metadata = {
   description: "Software developer turned product manager.",
   generator: "v0.dev",
   icons: {
-    icon: "/favicon.png",
-    shortcut: "/favicon.png",
-    apple: "/favicon.png",
+    icon: [
+      { url: "/favicon-16x16.png", sizes: "16x16", type: "image/png" },
+      { url: "/favicon-32x32.png", sizes: "32x32", type: "image/png" },
+    ],
+    shortcut: "/favicon.ico",
+    apple: { url: "/favicon-32x32.png", sizes: "32x32", type: "image/png" },
   },
 }
 
@@ -41,6 +44,12 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
+      <head>
+        <link rel="icon" type="image/x-icon" href="/favicon.ico" />
+        <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
+        <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
+        <link rel="apple-touch-icon" sizes="32x32" href="/favicon-32x32.png" />
+      </head>
       <body className={cn("font-sans antialiased", inter.variable, chivo.variable, abrilFatface.variable)}>
         <Suspense fallback={null}>{children}</Suspense>
         <Analytics />

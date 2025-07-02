@@ -1,4 +1,4 @@
-# Suryansh's Product Manager Portfolio
+# Suryansh Chauhan - Product Manager Portfolio
 
 [![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/suryanshchauhans-projects/v0-developer-portfolio4)
 
@@ -18,17 +18,21 @@ DMs are always open. Let's chat about building great products!
 
 ## Tech Stack
 
-- **Framework**: Next.js 14 with App Router
-- **Styling**: Tailwind CSS
-- **UI Components**: shadcn/ui
-- **Typography**: Inter, Chivo, Abril Fatface
-- **Analytics**: Vercel Analytics
-- **Deployment**: Vercel
-- **Built with**: v0.dev
+- **Framework:** Next.js 14 with App Router
+- **Styling:** Tailwind CSS
+- **UI Components:** shadcn/ui
+- **Typography:** Inter, Chivo, Abril Fatface
+- **Analytics:** Vercel Analytics
+- **Deployment:** Vercel
+- **Built with:** v0.dev
 
 ## Contact
 
 Feel free to reach out for collaborations, product discussions, or just to say hi!
 
-- Website: [www.suryansh.digital](https://www.suryansh.digital)
-- Portfolio: [View Live](https://vercel.com/suryanshchauhans-projects/v0-developer-portfolio4)
+- **Website:** [www.suryansh.digital](https://www.suryansh.digital)
+- **Portfolio:** [Live Demo](https://vercel.com/suryanshchauhans-projects/v0-developer-portfolio4)
+
+---
+
+*Built with ❤️ using v0.dev*
