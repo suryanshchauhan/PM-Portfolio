@@ -31,7 +31,6 @@ DMs are always open. Let's chat about building great products!
 Feel free to reach out for collaborations, product discussions, or just to say hi!
 
 - **Website:** [www.suryansh.digital](https://www.suryansh.digital)
-- **Portfolio:** [Live Demo](https://vercel.com/suryanshchauhans-projects/v0-developer-portfolio4)
 
 ---
 

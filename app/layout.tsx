@@ -25,8 +25,34 @@ const abrilFatface = Abril_Fatface({
 
 export const metadata: Metadata = {
   title: "Suryansh Chauhan - Product Manager Portfolio",
-  description: "Software developer turned product manager.",
+  description:
+    "Hi, I'm Suryansh—a developer turned product manager, passionate about building things that matter. I thrive on connecting ideas, teams, and data to create real impact.",
   generator: "v0.dev",
+  metadataBase: new URL("https://www.suryansh.digital"),
+  openGraph: {
+    title: "Suryansh Chauhan - Product Manager Portfolio",
+    description:
+      "Hi, I'm Suryansh—a developer turned product manager, passionate about building things that matter. I thrive on connecting ideas, teams, and data to create real impact.",
+    url: "https://www.suryansh.digital",
+    siteName: "Suryansh Chauhan Portfolio",
+    images: [
+      {
+        url: "/og-image.png",
+        width: 1200,
+        height: 630,
+        alt: "Suryansh Chauhan - Product Manager Portfolio",
+      },
+    ],
+    locale: "en_US",
+    type: "website",
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "Suryansh Chauhan - Product Manager Portfolio",
+    description:
+      "Hi, I'm Suryansh—a developer turned product manager, passionate about building things that matter. I thrive on connecting ideas, teams, and data to create real impact.",
+    images: ["/og-image.png"],
+  },
   icons: {
     icon: [
       { url: "/favicon-16x16.png", sizes: "16x16", type: "image/png" },
