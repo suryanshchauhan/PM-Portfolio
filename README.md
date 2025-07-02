@@ -5,7 +5,11 @@
 
 
 **Hi, I’m Suryansh—a developer turned product manager, passionate about building things that matter.**
-I thrive on connecting ideas, teams, and data to create real impact, going beyond just shipping features. Curious by nature, I love diving into what makes users tick and what drives great products. My current obsession? Turning insights into outcomes that genuinely move the needle. You can find my work at: **www.suryansh.digital** 
+<br>
+I thrive on connecting ideas, teams, and data to create real impact, going beyond just shipping features. Curious by nature, I love diving into what makes users tick and what drives great products. My current obsession? Turning insights into outcomes that genuinely move the needle.
+<br>
+You can find my work at: **www.suryansh.digital** 
+<br>
 DMs are always open. Let’s chat about building great products!
 
 ## Tech Stack
